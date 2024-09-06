@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Prtc27",
+            "request": "launch",
+            "mainClass": "Prtc27",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Prtc26",
+            "request": "launch",
+            "mainClass": "Prtc26",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Atest",
+            "request": "launch",
+            "mainClass": "com.Atest",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Prtc25",
+            "request": "launch",
+            "mainClass": "Prtc25",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Prtc24",
+            "request": "launch",
+            "mainClass": "Prtc24",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Fzn",
+            "request": "launch",
+            "mainClass": "com.fzn.Fzn",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Prtc23",
+            "request": "launch",
+            "mainClass": "Prtc23",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Pratc22",
+            "request": "launch",
+            "mainClass": "Pratc22",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Prtc21",
+            "request": "launch",
+            "mainClass": "Prtc21",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Bus",
+            "request": "launch",
+            "mainClass": "Bus",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Prtc20",
+            "request": "launch",
+            "mainClass": "Prtc20",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Prtc18",
+            "request": "launch",
+            "mainClass": "Prtc18",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc17",
+            "request": "launch",
+            "mainClass": "Prtc17",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc16",
+            "request": "launch",
+            "mainClass": "Prtc16",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc15",
+            "request": "launch",
+            "mainClass": "Prtc15",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc14",
+            "request": "launch",
+            "mainClass": "Prtc14",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc13",
+            "request": "launch",
+            "mainClass": "Prtc13",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc12",
+            "request": "launch",
+            "mainClass": "Prtc12",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc11",
+            "request": "launch",
+            "mainClass": "Prtc11",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch prtc10",
+            "request": "launch",
+            "mainClass": "prtc10",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc9",
+            "request": "launch",
+            "mainClass": "Prtc9",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc8",
+            "request": "launch",
+            "mainClass": "Prtc8",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fzn",
+            "request": "launch",
+            "mainClass": "Fzn",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Faizan",
+            "request": "launch",
+            "mainClass": "Faizan",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc1",
+            "request": "launch",
+            "mainClass": "Prtc1",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc2",
+            "request": "launch",
+            "mainClass": "Prtc2",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc3",
+            "request": "launch",
+            "mainClass": "Prtc3",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc4",
+            "request": "launch",
+            "mainClass": "Prtc4",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc5",
+            "request": "launch",
+            "mainClass": "Prtc5",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc6",
+            "request": "launch",
+            "mainClass": "Prtc6",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prtc7",
+            "request": "launch",
+            "mainClass": "Prtc7",
+            "projectName": "Practice for java_8fcd664f"
+        }
+    ]
+}
