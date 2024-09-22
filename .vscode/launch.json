@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Prtc28",
+            "request": "launch",
+            "mainClass": "Prtc28",
+            "projectName": "Practice for java_8fcd664f"
+        },
+        {
+            "type": "java",
             "name": "Prtc27",
             "request": "launch",
             "mainClass": "Prtc27",
